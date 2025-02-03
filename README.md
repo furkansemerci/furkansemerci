@@ -7,8 +7,8 @@
 
 ## 🚀 About Me  
 
-I'm a **second-year student** at Bilkent University, studying **Computer Technology and Information Systems (CTIS)**.   
-I enjoy working on **full-stack web applications, backend development, and automation projects**.
+I'm a **third-year student** at Bilkent University, studying **Computer Technology and Information Systems (CTIS)**.   
+I enjoy working on **full-stack web applications, automation projects and computer networks**.
 
 ---
 ## 🎓 Currently Learning
@@ -27,7 +27,6 @@ I enjoy working on **full-stack web applications, backend development, and autom
 - 🔹 **Web Development:** Flask, Bootstrap, HTML, CSS, JQuery
 - 🔹 **Databases:** PostgreSQL, MySQL
 - 🔹 **DevOps & Tools:** Docker, RabbitMQ, MinIO, Selenium, Git   
-- 🔹 **Languages:** Turkish (Native), French (Fluent), English (Fluent)  
 
 ---
 
