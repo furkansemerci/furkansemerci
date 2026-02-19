@@ -12,10 +12,13 @@ I'm a **third-year student** at Bilkent University, currently working as a **Dev
 
 I am passionate about **Cloud Computing, Infrastructure as Code and High Availability Systems**.
 
+🏠 **Personal Homelab Cloud & Git Server**
+Built a self-hosted personal cloud and private Git server using **Linux, Docker, Nextcloud, Gitea and Cloudflare Tunnel**, enabling secure remote file access and version control without port forwarding.
+
 ---
 ## Current Focus & Goals
 
-- **NixOS:** Implementing declarative configuration for automated customer deployments.
+- **NixOS:** Implementing declarative configuration for automated deployments.
 - **AWS:** Preparing for the **AWS Certified Cloud Practitioner** exam to solidify cloud fundamentals.
 
 ---
