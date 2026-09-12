@@ -2,7 +2,7 @@
 
 🎓 **Computer Technology and Information Systems (CTIS) Senior Student @ Bilkent University**  
 🚀 **DevOps Engineer & Cloud Enthusiast**  
-☁️ **Board Member @ AWS Cloud Club Bilkent**
+☁️ **Board Member @ AWS Student Builder Group Bilkent**
 
 ---
 
