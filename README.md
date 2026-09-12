@@ -28,10 +28,10 @@ Built a self-hosted personal cloud and private Git server using **Linux, Docker,
 
 ## Tech Stack
 
-- **Cloud & DevOps:** AWS, Docker, GitLab CI/CD, Nomad, NixOS, Terraform, HAProxy, Linux
+- **Cloud & DevOps:** AWS, Docker, GitLab CI/CD, HashiCorp Nomad, NixOS, Terraform, Linux
 - **Languages:** Bash, Java, JavaScript, TypeScript, PHP, Python
-- **Backend & Frontend:** Node.js, Express.js, Fastify, Flask, React, Vue.js, Tailwind CSS
-- **Databases:** PostgreSQL, Patroni, MySQL, ClickHouse, MongoDB
+- **Backend & Frontend:** Node.js, Fastify, React, Vue.js, Tailwind CSS
+- **Databases:** PostgreSQL, Patroni, ClickHouse
 - **Concepts:** Infrastructure as Code, CI/CD, Containerization, High Availability, Fault Tolerance, Cloud Security
 
 ---
